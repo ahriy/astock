@@ -1,0 +1,33 @@
+# OpenClaw files
+AGENTS.md
+BOOTSTRAP.md
+IDENTITY.md
+MEMORY.md
+SOUL.md
+TOOLS.md
+USER.md
+check_stock_progress.sh
+claude-code-setup.md
+memory/
+stock_analysis_full.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Data files (large)
+*.pkl
+*.tar.gz
+
+# Output files
+output/
+level1_filtered/
+level2_reports/
+logs/
+raw_data/
+
+# Test files
+test*.py
+fix_bug.py
+example_usage.py
